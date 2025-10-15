@@ -1,0 +1,90 @@
+/* ======== Estilos globales ======== */
+:root {
+  --color-bg: #f8f9fb;
+  --color-card: #ffffff;
+  --color-primary: #6366f1;
+  --color-text: #1f2937;
+  --radius: 16px;
+  --shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  --transition: all 0.3s ease;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+/* ======== Tarjeta principal ======== */
+.container {
+  background: var(--color-card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  width: 90%;
+  max-width: 500px;
+  padding: 2rem;
+  text-align: center;
+  transition: var(--transition);
+}
+
+.container:hover {
+  transform: translateY(-5px);
+}
+
+/* ======== Campo de texto ======== */
+input {
+  width: 100%;
+  padding: 0.8rem;
+  border: 2px solid #e5e7eb;
+  border-radius: var(--radius);
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  outline: none;
+  transition: var(--transition);
+}
+
+input:focus {
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.1);
+}
+
+/* ======== Botón ======== */
+button {
+  background-color: var(--color-primary);
+  color: white;
+  border: none;
+  padding: 0.8rem 1.5rem;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 1rem;
+  transition: var(--transition);
+}
+
+button:hover {
+  background-color: #4f46e5;
+  transform: scale(1.03);
+}
+
+/* ======== Ideas generadas ======== */
+.ideas {
+  margin-top: 1.5rem;
+  text-align: left;
+}
+
+.idea {
+  background: #f9fafb;
+  border-radius: var(--radius);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  box-shadow: var(--shadow);
+  transition: var(--transition);
+}
+
+.idea:hover {
+  transform: translateY(-4px);
+}

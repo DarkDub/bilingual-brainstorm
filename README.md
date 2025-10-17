@@ -1,26 +1,24 @@
 # 🧠 Bilingual Brainstorm
 
-**Bilingual Brainstorm** es una aplicación interactiva diseñada para ayudar a las personas a **generar ideas, aprender idiomas y mejorar su creatividad** utilizando inteligencia artificial.  
-El objetivo es ofrecer un entorno donde los usuarios puedan practicar inglés y español mientras reciben sugerencias inteligentes y personalizadas.
+**Bilingual Brainstorm** is an interactive application designed to help people **generate ideas, learn languages, and boost creativity** using artificial intelligence.  
+The goal is to provide an environment where users can practice English and Spanish while receiving intelligent and personalized suggestions.
 
-> 🚧 **Estado actual:**  
-> El proyecto está **en construcción activa**. Algunas funciones pueden no estar disponibles o estar en proceso de mejora.  
-> Se recomienda revisar con frecuencia para ver las nuevas actualizaciones y características.
-
----
-
-## 🌟 Características planeadas
-
--  **Integración con IA local o APIs modernas** (como Chrome AI o modelos en la nube).  
--  **Interfaz bilingüe (Español / Inglés)**.  
--  **Sistema de brainstorming guiado** para generar ideas, temas y palabras clave.  
--  **Modo de conversación interactiva** para practicar idiomas y obtener retroalimentación.  
--  **Diseño minimalista y adaptable (responsive)**.  
--  **Construido con tecnologías modernas (React + Vite)**.  
+> 🚧 **Current Status:**  
+> The project is **under development**.
 
 ---
 
-##  Estructura actual del proyecto
+## 🌟 Planned Features
 
-- desarrollo
+- **Integration with local or modern AI APIs** (such as Chrome AI or cloud-based models).  
+- **Bilingual interface (Spanish / English).**  
+- **Guided brainstorming system** to generate ideas, topics, and keywords.  
+- **Interactive conversation mode** for language practice and feedback.  
+- **Minimalist and responsive design.**  
+- **Built with modern technologies (React + Vite).**  
 
+---
+
+## 🏗️ Current Project Structure
+
+- In development

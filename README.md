@@ -19,6 +19,3 @@ The goal is to provide an environment where users can practice English and Spani
 
 ---
 
-## 🏗️ Current Project Structure
-
-- In development
